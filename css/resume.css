@@ -210,3 +210,9 @@ a:hover, a:focus, a:active {
 .cstm-list-skill i{
   transition: color 0.5s;
 }
+
+.cstm-icon{
+  width: 1em;
+  height: 1em;
+  border-radius: 7px;
+}
